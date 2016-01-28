@@ -1,0 +1,9 @@
+<!--This is the text file to read contacts -->
+<strong>Admin:</strong>   <br/>                                                                                                       
+Email Address: <a href="mailto:coolprofsinn@gmail.com">coolprofsinn@gmail.com</a> <br/>                                                    
+Phone Number: +1408169189       <br/>                                                               
+
+<br/>
+<strong>Developer:<br/></strong>
+Email Address: you@your.com<br/>
+Phone Number:+1669669669
